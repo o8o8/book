@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60de1e7d-8806-46a6-bb6a-dd0312dfcaa4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一个农民的亿万传奇-沈良.txt" beforeDir="false" afterPath="$PROJECT_DIR$/一个农民的亿万传奇-沈良.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/商战往事：解决方案销售与售前顾问协同打单实录-吴柏臣.txt" beforeDir="false" afterPath="$PROJECT_DIR$/商战往事：解决方案销售与售前顾问协同打单实录-吴柏臣.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/广告大师奥格威：未公诸于世的选集（修订版）-大卫•奥格.txt" beforeDir="false" afterPath="$PROJECT_DIR$/广告大师奥格威：未公诸于世的选集（修订版）-大卫•奥格.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/广告痴人说梦话-林俊明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/广告痴人说梦话-林俊明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt" beforeDir="false" afterPath="$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt" beforeDir="false" afterPath="$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt" beforeDir="false" afterPath="$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt" beforeDir="false" afterPath="$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/娱乐至死作者：尼尔.波兹曼.txt" beforeDir="false" afterPath="$PROJECT_DIR$/娱乐至死作者：尼尔.波兹曼.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/富爸爸不公平的优势.txt" beforeDir="false" afterPath="$PROJECT_DIR$/富爸爸不公平的优势.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/社会心理学.txt" beforeDir="false" afterPath="$PROJECT_DIR$/社会心理学.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/自控力.txt" beforeDir="false" afterPath="$PROJECT_DIR$/自控力.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/财务自由之路.txt" beforeDir="false" afterPath="$PROJECT_DIR$/财务自由之路.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,12 +20,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="6750" lean-forward="true" selection-start-line="6750" selection-end-line="6750" />
+            <state relative-caret-position="494">
+              <caret line="278" column="11" lean-forward="true" selection-start-line="278" selection-start-column="11" selection-end-line="278" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -36,31 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/社会心理学.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/社群从0到1的10个步骤.gif">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/科学的广告+我的广告生涯.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="3234" lean-forward="true" selection-start-line="3234" selection-end-line="3234" />
+            <state relative-caret-position="858">
+              <caret line="2247" lean-forward="true" selection-start-line="2247" selection-end-line="2247" />
             </state>
           </provider>
         </entry>
@@ -68,8 +42,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/广告痴人说梦话-林俊明.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="551">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/广告大师奥格威：未公诸于世的选集（修订版）-大卫•奥格.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/富爸爸不公平的优势.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="284" lean-forward="true" selection-start-line="284" selection-end-line="284" />
             </state>
           </provider>
         </entry>
@@ -77,26 +65,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/一个广告人的自白.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
+            <state relative-caret-position="858">
               <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/一个农民的亿万传奇-沈良.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="4363" column="28" lean-forward="true" selection-start-line="4363" selection-start-column="28" selection-end-line="4363" selection-end-column="28" />
+            <state relative-caret-position="589">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/定位：有史以来对美国营销影响最大的观念.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="551">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/商战往事：解决方案销售与售前顾问协同打单实录-吴柏臣.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="4363" column="28" lean-forward="true" selection-start-line="4363" selection-start-column="28" selection-end-line="4363" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -113,6 +115,11 @@
       <find>幸福的味道</find>
       <find>周读</find>
       <find>2338856113</find>
+      <find>期投资的心理</find>
+      <find>公式</find>
+      <find>www.11dream.net</find>
+      <find>???</find>
+      <find>...</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -124,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt" />
         <option value="$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt" />
         <option value="$PROJECT_DIR$/广告痴人说梦话-林俊明.txt" />
         <option value="$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt" />
@@ -133,6 +139,12 @@
         <option value="$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt" />
         <option value="$PROJECT_DIR$/一个农民的亿万传奇-沈良.txt" />
         <option value="$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt" />
+        <option value="$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt" />
+        <option value="$PROJECT_DIR$/娱乐至死作者：尼尔.波兹曼.txt" />
+        <option value="$PROJECT_DIR$/财务自由之路.txt" />
+        <option value="$PROJECT_DIR$/自控力.txt" />
+        <option value="$PROJECT_DIR$/社会心理学.txt" />
+        <option value="$PROJECT_DIR$/富爸爸不公平的优势.txt" />
       </list>
     </option>
   </component>
@@ -150,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,24 +204,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568021001374</updated>
-      <workItem from="1568021002769" duration="672000" />
+      <workItem from="1568021002769" duration="1311000" />
+      <workItem from="1568077459360" duration="3489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="672000" />
+    <option name="totallyTimeSpent" value="4800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19494204" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27555323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -217,6 +226,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -226,62 +239,109 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
+    <entry file="file://$PROJECT_DIR$/社群从0到1的10个步骤.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/娱乐至死作者：尼尔.波兹曼.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="6750" lean-forward="true" selection-start-line="6750" selection-end-line="6750" />
+        <state relative-caret-position="749">
+          <caret line="1020" lean-forward="true" selection-start-line="1020" selection-end-line="1020" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="3234" lean-forward="true" selection-start-line="3234" selection-end-line="3234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自控力.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="346" column="7" lean-forward="true" selection-start-line="346" selection-start-column="7" selection-end-line="346" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/科学的广告+我的广告生涯.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/社会心理学.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/社群从0到1的10个步骤.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/科学的广告+我的广告生涯.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="3234" lean-forward="true" selection-start-line="3234" selection-end-line="3234" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/广告痴人说梦话-林俊明.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/一个广告人的自白.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="858">
+          <caret line="2247" lean-forward="true" selection-start-line="2247" selection-end-line="2247" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="858">
           <caret line="4363" column="28" lean-forward="true" selection-start-line="4363" selection-start-column="28" selection-end-line="4363" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="278" column="11" lean-forward="true" selection-start-line="278" selection-start-column="11" selection-end-line="278" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/广告痴人说梦话-林俊明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/广告大师奥格威：未公诸于世的选集（修订版）-大卫•奥格.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/富爸爸不公平的优势.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="284" lean-forward="true" selection-start-line="284" selection-end-line="284" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/定位：有史以来对美国营销影响最大的观念.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/商战往事：解决方案销售与售前顾问协同打单实录-吴柏臣.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一个广告人的自白.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一个农民的亿万传奇-沈良.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
         </state>
       </provider>
     </entry>
