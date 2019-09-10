@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60de1e7d-8806-46a6-bb6a-dd0312dfcaa4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/史玉柱自述：我的营销心得+(全).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/营销革命+3.0-从产品到顾客，再到人文精神marketing30.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/营销革命+3.0-从产品到顾客，再到人文精神.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/邻家的百万富翁.pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="60de1e7d-8806-46a6-bb6a-dd0312dfcaa4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,62 +12,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/邻家的百万富翁.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/自控力.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-855">
-              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="3234" lean-forward="true" selection-start-line="3234" selection-end-line="3234" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/营销革命.txt">
+        <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="4999" lean-forward="true" selection-start-line="4999" selection-end-line="4999" />
+            <state relative-caret-position="-8986">
+              <caret line="1829" column="9" selection-start-line="1829" selection-start-column="5" selection-end-line="1829" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt">
+        <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4300" lean-forward="true" selection-start-line="4300" selection-end-line="4300" />
+            <state relative-caret-position="858">
+              <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
             </state>
           </provider>
         </entry>
@@ -96,6 +50,7 @@
       <find>周读</find>
       <find>491256034</find>
       <find>2338856113</find>
+      <find>第3章</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -127,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1212" />
@@ -141,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +107,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,17 +141,17 @@
       <workItem from="1568021002769" duration="1311000" />
       <workItem from="1568077459360" duration="4476000" />
       <workItem from="1568082471295" duration="1397000" />
+      <workItem from="1568088452952" duration="1652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7184000" />
+    <option name="totallyTimeSpent" value="8836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27555323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21917808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,13 +184,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/科学的广告+我的广告生涯.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -247,13 +195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="2247" lean-forward="true" selection-start-line="2247" selection-end-line="2247" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="278" column="11" lean-forward="true" selection-start-line="278" selection-start-column="11" selection-end-line="278" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -298,27 +239,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/史玉柱自述.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="6086" lean-forward="true" selection-start-line="6086" selection-end-line="6086" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../营销革命-阿尔·里斯&amp;杰克·特劳特.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4300" lean-forward="true" selection-start-line="4300" selection-end-line="4300" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/史玉柱自述.txt" />
+    <entry file="file://$PROJECT_DIR$/../营销革命-阿尔·里斯&amp;杰克·特劳特.txt" />
     <entry file="file://$PROJECT_DIR$/邻家的百万富翁.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -328,17 +250,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/自控力.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-855">
+        <state relative-caret-position="684">
           <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
+        <state relative-caret-position="61446">
           <caret line="3234" lean-forward="true" selection-start-line="3234" selection-end-line="3234" />
         </state>
       </provider>
@@ -350,10 +269,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/深度营销：解决方案式销售行动指南-王鉴.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81700">
+          <caret line="4300" lean-forward="true" selection-start-line="4300" selection-end-line="4300" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/营销革命.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="4999" lean-forward="true" selection-start-line="4999" selection-end-line="4999" />
+        <state relative-caret-position="186">
+          <caret line="5006" lean-forward="true" selection-start-line="5006" selection-end-line="5006" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8986">
+          <caret line="1829" column="9" selection-start-line="1829" selection-start-column="5" selection-end-line="1829" selection-end-column="9" />
         </state>
       </provider>
     </entry>
