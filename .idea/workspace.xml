@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8986">
-              <caret line="1829" column="9" selection-start-line="1829" selection-start-column="5" selection-end-line="1829" selection-end-column="9" />
+            <state relative-caret-position="231">
+              <caret line="1880" lean-forward="true" selection-start-line="1751" selection-end-line="1880" />
             </state>
           </provider>
         </entry>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
+            <state relative-caret-position="14345">
+              <caret line="755" selection-start-line="755" selection-end-line="755" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,9 @@
       <find>491256034</find>
       <find>2338856113</find>
       <find>第3章</find>
+      <find>中证基本面50指数</find>
+      <find>出版</find>
+      <find>时间</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -70,7 +73,6 @@
         <option value="$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt" />
         <option value="$PROJECT_DIR$/一个农民的亿万传奇-沈良.txt" />
         <option value="$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt" />
-        <option value="$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt" />
         <option value="$PROJECT_DIR$/娱乐至死作者：尼尔.波兹曼.txt" />
         <option value="$PROJECT_DIR$/财务自由之路.txt" />
         <option value="$PROJECT_DIR$/自控力.txt" />
@@ -79,10 +81,11 @@
         <option value="$PROJECT_DIR$/史玉柱自述.txt" />
         <option value="$PROJECT_DIR$/邻家的百万富翁-托马斯·J·斯坦利+威廉·D·丹科.txt" />
         <option value="$PROJECT_DIR$/../营销革命-阿尔·里斯&amp;杰克·特劳特.txt" />
+        <option value="$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1212" />
@@ -142,16 +145,18 @@
       <workItem from="1568077459360" duration="4476000" />
       <workItem from="1568082471295" duration="1397000" />
       <workItem from="1568088452952" duration="1652000" />
+      <workItem from="1568163653827" duration="6109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8836000" />
+    <option name="totallyTimeSpent" value="14945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21917808" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13540569" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -286,17 +291,17 @@
     <entry file="file://$PROJECT_DIR$/跨越鸿沟：颠覆性产品营销圣经-杰弗里·摩尔.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
+    <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
+        <state relative-caret-position="231">
+          <caret line="1880" lean-forward="true" selection-start-line="1751" selection-end-line="1880" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
+    <entry file="file://$PROJECT_DIR$/财务自由之路.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8986">
-          <caret line="1829" column="9" selection-start-line="1829" selection-start-column="5" selection-end-line="1829" selection-end-column="9" />
+        <state relative-caret-position="14345">
+          <caret line="755" selection-start-line="755" selection-end-line="755" />
         </state>
       </provider>
     </entry>
