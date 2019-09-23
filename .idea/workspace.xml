@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60de1e7d-8806-46a6-bb6a-dd0312dfcaa4" name="Default Changelist" comment="" />
+    <list default="true" id="60de1e7d-8806-46a6-bb6a-dd0312dfcaa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="1880" lean-forward="true" selection-start-line="1751" selection-end-line="1880" />
+            <state relative-caret-position="235">
+              <caret line="3456" selection-start-line="3456" selection-end-line="3456" />
             </state>
           </provider>
         </entry>
@@ -85,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1212" />
@@ -146,17 +148,24 @@
       <workItem from="1568082471295" duration="1397000" />
       <workItem from="1568088452952" duration="1652000" />
       <workItem from="1568163653827" duration="6109000" />
+      <workItem from="1568273671846" duration="3557000" />
+      <workItem from="1568595561543" duration="1845000" />
+      <workItem from="1568682602740" duration="595000" />
+      <workItem from="1568768762575" duration="599000" />
+      <workItem from="1568855810478" duration="598000" />
+      <workItem from="1568941946523" duration="596000" />
+      <workItem from="1569201143199" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14945000" />
+    <option name="totallyTimeSpent" value="23333000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1212" height="1047" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13540569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.050255537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,13 +246,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/一个广告人的自白.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/一个广告人的自白.txt" />
     <entry file="file://$PROJECT_DIR$/史玉柱自述.txt" />
     <entry file="file://$PROJECT_DIR$/../营销革命-阿尔·里斯&amp;杰克·特劳特.txt" />
     <entry file="file://$PROJECT_DIR$/邻家的百万富翁.txt">
@@ -260,13 +263,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61446">
-          <caret line="3234" lean-forward="true" selection-start-line="3234" selection-end-line="3234" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/非暴力沟通-马歇尔·卢森堡.txt" />
     <entry file="file://$PROJECT_DIR$/马克思与《资本论》-大卫·哈维.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -293,8 +290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/指数基金投资指南-银行螺丝钉.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="1880" lean-forward="true" selection-start-line="1751" selection-end-line="1880" />
+        <state relative-caret-position="235">
+          <caret line="3456" selection-start-line="3456" selection-end-line="3456" />
         </state>
       </provider>
     </entry>
